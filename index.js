@@ -29,12 +29,7 @@ const cardData = [
     25: 10,
     30: 10,
     35: 10,
-    40: 10,
-    50: 10,
-    60: 10,
-    70: 10,
-    80: 10,
-    85: 10
+
   };
   
   let availableDiscounts = Object.keys(discountLimits).flatMap((discount) =>
